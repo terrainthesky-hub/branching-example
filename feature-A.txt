@@ -4,3 +4,7 @@ This is me continuining my work on featureA. I am really proud of it, and am loo
 to as future repo.
 
 I have worked really hard, and feature A is almost complete!
+
+Finally! I have completed feature A! At least, I thought I did...
+
+There was an extreme edge case I needed to catch, required refactoring.
