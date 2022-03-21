@@ -1,6 +1,1 @@
-This represents my work on Feature A. I have startied, but it is not completed yet.
-
-This is me continuining my work on featureA. I am really proud of it, and am looking forward to pushing
-to as future repo.
-
-I have worked really hard, and feature A is almost complete!
+Feature A is done with only 1 line of code
